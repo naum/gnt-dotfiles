@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/gnt/Documents'
+let g:netrw_dirhist_7='/Users/gnt'
+let g:netrw_dirhist_6='/Users/gnt/Desktop/dutyofdecks/config'
+let g:netrw_dirhist_5='/Users/gnt/Documents'
+let g:netrw_dirhist_4='/Users/gnt/Sites/notedly/api/src/models'
+let g:netrw_dirhist_3='/Users/gnt/Documents'
+let g:netrw_dirhist_2='/Users/gnt/Sites/cardster/about'
+let g:netrw_dirhist_1='/Users/gnt/Sites/cardster/page'
